@@ -186,7 +186,7 @@ kubectl get ingress
 </details>
 <br/>
 
-## Next Steps - test
+## Next Steps
 
 This lab provided an introductory overview of Kubernetes operations. Additional topics such as persistent volumes, network policy, config maps, stateful sets and more will be covered in more detail in the ongoing labs.
 
@@ -198,4 +198,4 @@ If you are not following the PKS Ninja cirriculum and would like to deploy the c
 
 ### [Please click here to proceed to Lab2: PKS Installation Phase 1](../Lab2-PksInstallationPhaseOne)
 
-test
+test2
